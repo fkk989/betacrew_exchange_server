@@ -15,11 +15,11 @@ cd betacrew_exchange_server
 #### Start the BetaCrew exchange server
 
 ```bash
-  npm run main.js
+  node main.js
 ```
 
 #### Start the client which will receive packets
 
 ```bash
-  npm run client.js
+  node client.js
 ```
